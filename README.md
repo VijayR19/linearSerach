@@ -1,1 +1,1 @@
-# linearSerach
+# linearSerach and binarySearch
